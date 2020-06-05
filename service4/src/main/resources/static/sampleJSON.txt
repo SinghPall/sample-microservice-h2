@@ -1,0 +1,45 @@
+
+[
+    {
+        "id": 1,
+        "parentId": 0,
+        "name": "Jai",
+        "color": "yellow"
+    },
+    {
+        "id": 2,
+        "parentId": 1,
+        "name": "Arya",
+        "color": "black"
+    },
+	    {
+	        "id": 3,
+	        "parentId": 1,
+	        "name": "Jack",
+	        "color": "green"
+	    },
+    {
+        "id": 4,
+        "parentId": 0,
+        "name": "Jerry",
+        "color": "green"
+    },
+    {
+        "id": 5,
+        "parentId": 2,
+        "name": "Tom",
+        "color": "Blue"
+    },
+    {
+        "id": 6,
+        "parentId": 2,
+        "name": "Harry",
+        "color": "Blue"
+    },
+    {
+        "id": 8,
+        "parentId": 0,
+        "name": "Sam",
+        "color": "Green"
+    }
+]
